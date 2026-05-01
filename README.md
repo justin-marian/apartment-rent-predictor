@@ -1,15 +1,12 @@
 # :house: Apartment Rent Prediction
 
-> [!NOTE]  
-> Complete machine learning regression workflow for predicting apartment rental prices.
-
-> [!TIP]
-> Full experimental workflow, while the report summarizes the methodology, results, and conclusions.
-
 > [!IMPORTANT]  
 > The task was to build and evaluate a complete prediction pipeline, starting from exploratory analysis and ending with model comparison, tuning, and final validation.
 
 ## :pushpin: Project Includes
+
+> [!TIP]
+> Full experimental workflow, while the report summarizes the methodology, results, and conclusions.
 
 - :bar_chart: EDA of the dataset, including missing values, target distribution, correlations, outliers, and visualizations.
 - :broom: Data preprocessing, including numeric conversion, invalid-value handling, missing-value imputation, categorical encoding, and target clipping.
