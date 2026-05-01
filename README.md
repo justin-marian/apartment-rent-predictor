@@ -1,7 +1,13 @@
 # :house: Apartment Rent Prediction
 
-> [INFO]  
-> :dart: Build and evaluate a complete prediction pipeline for apartment rental prices, starting from exploratory analysis and ending with model comparison, tuning, and final validation.
+> [!NOTE]  
+> Complete machine learning regression workflow for predicting apartment rental prices.
+
+> [!TIP]
+> Full experimental workflow, while the report summarizes the methodology, results, and conclusions.
+
+> [!IMPORTANT]  
+> The task was to build and evaluate a complete prediction pipeline, starting from exploratory analysis and ending with model comparison, tuning, and final validation.
 
 ## :pushpin: Project Includes
 
@@ -17,8 +23,5 @@
 - :mag: Hyperparameter tuning using `RandomizedSearchCV` for the strongest models.
 - :jigsaw: Final ensemble validation using multiple XGBoost variants and out-of-fold RMSE evaluation.
 
-> [TIP]  
-> :bulb: The notebooks contain the full experimental workflow, while the report summarizes the methodology, results, and conclusions.
-
-> [NOTE]  
-> :paperclip: Multiple notebooks are included, each corresponding to experiments that obtain different RMSE scores. Some notebooks differ only slightly in preprocessing, features, tuning, or ensemble settings, while others may introduce larger changes that lead to more visible score differences.
+> [!NOTE]  
+> Multiple notebooks are included, each corresponding to experiments that obtain different RMSE scores. Some notebooks differ only slightly in preprocessing, features, tuning, or ensemble settings, while others may introduce larger changes that lead to more visible score differences.
